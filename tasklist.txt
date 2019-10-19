@@ -1,0 +1,94 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        112 K
+smss.exe                       296 Services                   0      1,012 K
+csrss.exe                      396 Services                   0      4,148 K
+wininit.exe                    512 Services                   0      5,640 K
+services.exe                   632 Services                   0      9,332 K
+lsass.exe                      640 Services                   0     15,800 K
+svchost.exe                    720 Services                   0     26,684 K
+fontdrvhost.exe                760 Services                   0      3,140 K
+svchost.exe                    856 Services                   0     12,404 K
+svchost.exe                    992 Services                   0     42,816 K
+svchost.exe                     64 Services                   0     19,308 K
+svchost.exe                    264 Services                   0     25,056 K
+svchost.exe                    428 Services                   0     48,596 K
+svchost.exe                    392 Services                   0     19,540 K
+svchost.exe                   1096 Services                   0     18,360 K
+svchost.exe                   1360 Services                   0      7,820 K
+svchost.exe                   1424 Services                   0      5,700 K
+svchost.exe                   1432 Services                   0      6,460 K
+spoolsv.exe                   1576 Services                   0     10,792 K
+svchost.exe                   1796 Services                   0     19,040 K
+SecurityHealthService.exe     1828 Services                   0     11,256 K
+VGAuthService.exe             1868 Services                   0      8,288 K
+MsMpEng.exe                   1880 Services                   0    132,444 K
+vmtoolsd.exe                  1888 Services                   0     18,812 K
+Memory Compression            2008 Services                   0     32,332 K
+dllhost.exe                   2100 Services                   0     10,488 K
+WmiPrvSE.exe                  2228 Services                   0     17,032 K
+msdtc.exe                     2276 Services                   0      7,984 K
+svchost.exe                   2876 Services                   0      7,092 K
+GoogleCrashHandler.exe        3416 Services                   0         40 K
+GoogleCrashHandler64.exe      4020 Services                   0          8 K
+csrss.exe                     2092                            2      6,416 K
+winlogon.exe                  2188                            2      8,956 K
+fontdrvhost.exe               2844                            2      3,520 K
+dwm.exe                       3456                            2     36,292 K
+sihost.exe                    5096                            2     20,672 K
+svchost.exe                   4868                            2     24,576 K
+taskhostw.exe                 2984                            2     15,732 K
+explorer.exe                  4448                            2     85,992 K
+ShellExperienceHost.exe       1280                            2     49,920 K
+RuntimeBroker.exe             2464                            2     37,048 K
+MSASCuiL.exe                   572                            2      8,264 K
+vmtoolsd.exe                   476                            2     13,536 K
+dllhost.exe                   4252                            2      8,912 K
+cmd.exe                       5480                            2      2,500 K
+conhost.exe                   5408                            2     11,692 K
+LogonUI.exe                   2432                            2     39,876 K
+LockAppHost.exe               2756                            2     17,780 K
+LockApp.exe                   3720                            2     43,340 K
+SearchUI.exe                  3492                            2     49,172 K
+csrss.exe                     4540 Console                    4      4,668 K
+winlogon.exe                  5772 Console                    4      8,168 K
+dwm.exe                       5856 Console                    4     59,668 K
+fontdrvhost.exe               2348 Console                    4      6,780 K
+sihost.exe                    5640 Console                    4     27,068 K
+svchost.exe                   4776 Console                    4     23,680 K
+taskhostw.exe                 5984 Console                    4     17,564 K
+explorer.exe                  2340 Console                    4     85,048 K
+ShellExperienceHost.exe       2784 Console                    4     53,324 K
+SearchUI.exe                  6104 Console                    4     87,872 K
+RuntimeBroker.exe             2644 Console                    4     30,392 K
+ApplicationFrameHost.exe      5108 Console                    4     25,064 K
+MSASCuiL.exe                  3868 Console                    4      8,460 K
+vmtoolsd.exe                  5812 Console                    4     15,076 K
+chrome.exe                     740 Console                    4    110,496 K
+chrome.exe                    4184 Console                    4      6,056 K
+chrome.exe                    4908 Console                    4      7,612 K
+chrome.exe                    4172 Console                    4     66,992 K
+chrome.exe                    3820 Console                    4     27,196 K
+chrome.exe                    3700 Console                    4     33,388 K
+NisSrv.exe                    4848 Services                   0      1,460 K
+Steam.exe                     4292 Console                    4    100,536 K
+steamwebhelper.exe            4892 Console                    4     44,944 K
+steamwebhelper.exe            4400 Console                    4     11,344 K
+SteamService.exe              3328 Services                   0     13,736 K
+steamwebhelper.exe            6348 Console                    4     31,868 K
+steamwebhelper.exe            6700 Console                    4     68,004 K
+steamwebhelper.exe             864 Console                    4     36,392 K
+steamwebhelper.exe            1464 Console                    4     38,628 K
+dllhost.exe                   3932 Console                    4     10,168 K
+chrome.exe                    4416 Console                    4     49,004 K
+chrome.exe                    3204 Console                    4     20,124 K
+git-bash.exe                  4636 Console                    4      5,280 K
+mintty.exe                    4512 Console                    4     17,352 K
+conhost.exe                   5648 Console                    4     11,468 K
+bash.exe                      3636 Console                    4      9,936 K
+MicrosoftEdge.exe             2448 Console                    4     51,560 K
+browser_broker.exe            5848 Console                    4     11,252 K
+bash.exe                      2688 Console                    4      7,092 K
+tasklist.exe                  6596 Console                    4      7,964 K
